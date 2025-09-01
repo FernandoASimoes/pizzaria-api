@@ -9,6 +9,9 @@
     "typescript": "^5.9.2"
   },
   "dependencies": {
+    "-": "^0.0.1",
+    "@types/express": "^5.0.3",
+    "D": "^1.0.0",
     "express": "^5.1.0"
   }
 }
