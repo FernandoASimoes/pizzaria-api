@@ -1,0 +1,8 @@
+{
+  "name": "pizzaria-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FernandoASimoes/pizzaria-api.git",
+  "author": "Fernando Simões <fernando@khube.com.br>",
+  "license": "MIT"
+}
