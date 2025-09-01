@@ -6,11 +6,10 @@
   "author": "Fernando Simões <fernando@khube.com.br>",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.2",
+    "@types/express": "^5.0.3"
   },
   "dependencies": {
-    "-": "^0.0.1",
-    "@types/express": "^5.0.3",
     "express": "^5.1.0"
   }
 }
